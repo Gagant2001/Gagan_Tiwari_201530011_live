@@ -84,6 +84,7 @@ footer{
 }
 #nb{
     margin-left: 10px;
+    margin-top: 160px;
     padding: 10px;
     font-weight: bold;
     color: white;
@@ -93,6 +94,7 @@ footer{
  }
 #nba{
     margin-left: 100px;
+    margin-top: 160px;
     padding: 10px;
     background-color: transparent;
     font-weight: bold;
